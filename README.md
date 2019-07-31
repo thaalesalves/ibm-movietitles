@@ -8,6 +8,6 @@ Well, you've just gotta run MovieTitles to get it running. It'll start up at por
 You can access it through this link: http://localhost:8090/api/movie/title?title=MOVIE_SUBSTR. Just change MOVIE_SUBSTR to something and it'll return movie names matching the request.
 
 ### Example
-Here we're looking for Spiderman movies
+Here we're looking for [Spiderman movies](http://localhost:8090/api/movie/title?title=spiderman)!
 
 ![Italian Spiderman!!!!](/img/spiderman_movies.PNG)
