@@ -9,4 +9,5 @@ You can access it through this link: http://localhost:8090/api/movie/title?title
 
 ### Example
 Here we're looking for Spiderman movies
+
 ![Italian Spiderman!!!!](/img/spiderman_movies.PNG)
